@@ -2,6 +2,7 @@ import objectPath from 'object-path';
 
 /**
  * This is an array utils collection for help development
+ * @deprecated (use removeValueFromArray)
  */
 export class ClvArrayUtils {
 
